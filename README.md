@@ -1,2 +1,2 @@
 # ikw-C-code
-Repository for general VSCode stuff 
+Repository for general C programs and practice code
